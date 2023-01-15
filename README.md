@@ -9,3 +9,4 @@
 #### j. Defina POO
 ##### Es un paradigma de programación que organiza las funciones en entidades llamadas objetos, el objetivo de este paradigma centrarse en los objetos antes que en la lógica del programa, La POO tiene 4 principios: abstracción, encapsulación, herencia y polimorfismo. El primer principio también puede definir a la POO, pues es la abstracción de objetos o entidades del mundo real, obteniendo sus propiedades (atributos y métodos) creando una plantilla o clase.
 ## Parte 1
+![image](https://user-images.githubusercontent.com/97325189/212542071-013ad6e1-2cd7-4df2-91d7-85e17f57be43.png)
